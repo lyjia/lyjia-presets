@@ -5,7 +5,7 @@ An archive of synthesizer presets for various virtual instruments
 * Massive - 48 presets for Native Instruments' Massive v1. Made mostly between 2009-2011, presets range between 3-to-5 stars' quality. A variety of pads, leads, and basses, with an emphasis on raw, dirty, distorted dubstep-type material useful with further processing. Future installments will be of higher quality.
 * Z3TA+ 2 - 13 presets for Cakewalk 's Z3TA+ v2. Made mostly 2015-2016, featuring a handful of pads, leads, and basses. I'm rather fond of floaty, chordy pads and this collection shows it. The contents of this pack could be considered between 4-5 stars' quality. This pack may be updated as seen fit.
 
-## Blatant Self-Promotion
+## Shameless Self-Promotion
 
 You can listen of some of my music at https://www.soundcloud.com/lyjia
 
