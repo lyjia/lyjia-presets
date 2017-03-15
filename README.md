@@ -10,6 +10,6 @@ Except for presets explicitly marked MOD, this work is licensed under a Creative
 
 http://creativecommons.org/licenses/by/4.0/
 
-This means: do whatever you want, but credit me! (Liner notes, credits scroll, whatever. Do it!)
+This means: do whatever you want, but credit me! (Liner notes, credits scroll, about page, whatever. Do it!)
 
 (For MODs: Rights depend on the license agreement of the original preset author. In cases where derivative works are left open, that preset is licensed as noted above.)
