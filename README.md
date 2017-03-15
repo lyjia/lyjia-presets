@@ -6,5 +6,7 @@ An archive of synthesizer presets for various virtual instruments
 
 ## Licence
 This work is licensed under a Creative Commons Attribution 4.0 International License.
+
 http://creativecommons.org/licenses/by/4.0/
+
 This means: do whatever you want, but credit me! (Liner notes, credits scroll, whatever. Do it!)
